@@ -1969,7 +1969,7 @@
             "logo": "https://img.papamica.com/logo/keycloak.png",
             "repository": {
                 "stackfile": "composes-files/keycloak.yml",
-                "url": "https://github.com/PAPAMICA/docker-compose-collection"
+                "url": "https://github.com/Friezer-85/docker-compose-collection"
             },
             "env": [
                 {
