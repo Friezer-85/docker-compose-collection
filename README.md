@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/PAPAMICA/docker-compose-collection#list-of-services-availables"><img src="https://img.shields.io/badge/List_of_services-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
-    <a href="https://github.com/PAPAMICA/docker-compose-collection#utilisation"><img src="https://img.shields.io/badge/How_to_use-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
-    <a href="https://github.com/PAPAMICA/docker-compose-collection#add-new-docker-compose-file"><img src="https://img.shields.io/badge/Add_new_service-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
+    <a href="https://github.com/Friezer-85/docker-compose-collection#list-of-services-availables"><img src="https://img.shields.io/badge/List_of_services-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
+    <a href="https://github.com/Friezer-85/docker-compose-collection#utilisation"><img src="https://img.shields.io/badge/How_to_use-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
+    <a href="https://github.com/Friezer-85/docker-compose-collection#add-new-docker-compose-file"><img src="https://img.shields.io/badge/Add_new_service-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
     <br />
   <a><img alt="Updated" src="https://img.shields.io/badge/updated-2023_06_12_13h47-%232496ED.svg?style=for-the-badge&logo=social-blade&logoColor=white" ></a> <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/PAPAMICA/docker-compose-collection/main.yml?branch=master&label=Files%20generating&logo=files&logoColor=white&style=for-the-badge">
     <br />
@@ -79,7 +79,7 @@ You can deploy a compatible Docker environment with Portainer and Traefik with:
 | ✅ | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins" width="20"/> [jenkins](https://github.com/PAPAMICA/docker-compose-collection/tree/master/composes-files/jenkins.yml) | [jenkins.io](https://www.jenkins.io/) | 2022-10-25 |  Axel ROTTHIER "Drack0rr" |
 | ✅ | <img src="https://img.papamica.com/logo/jirafeau.png" alt="jirafeau" width="20"/> [jirafeau](https://github.com/PAPAMICA/docker-compose-collection/tree/master/composes-files/jirafeau.yml) | [Gitlab.com](https://gitlab.com/mojo42/Jirafeau) | 2022-05-10 |  Mickael "PAPAMICA" Asseline |
 | ✅ | <img src="https://www.kavitareader.com/img/logo.png" alt="kavita" width="20"/> [kavita](https://github.com/PAPAMICA/docker-compose-collection/tree/master/composes-files/kavita.yml) | [Github.com](https://github.com/Kareadita/Kavita) | 2022-12-05 |  Axel ROTTHIER "Drack0rr" |
-| ✅ | <img src="https://img.papamica.com/logo/keycloak.png" alt="keycloak" width="20"/> [keycloak](https://github.com/PAPAMICA/docker-compose-collection/tree/master/composes-files/keycloak.yml) | [Keycloak.org](https://www.keycloak.org/) | 2022-05-10 |  Mickael "PAPAMICA" Asseline |
+| ✅ | <img src="https://img.papamica.com/logo/keycloak.png" alt="keycloak" width="20"/> [keycloak](https://github.com/Friezer-85/docker-compose-collection/tree/master/composes-files/keycloak.yml) | [Keycloak.org](https://www.keycloak.org/) | 2023-11-19 |  Friezer  |
 | ✅ | <img src="https://img.papamica.com/logo/lidarr.png" alt="lidarr" width="20"/> [lidarr](https://github.com/PAPAMICA/docker-compose-collection/tree/master/composes-files/lidarr.yml) | [Lidarr.audio](https://lidarr.audio/) | 2022-05-17 |  Mickael "PAPAMICA" Asseline |
 | ✅ | <img src="https://img.papamica.com/logo/limesurvey.png" alt="limesurvey" width="20"/> [limesurvey](https://github.com/PAPAMICA/docker-compose-collection/tree/master/composes-files/limesurvey.yml) | [Github.com](https://github.com/LimeSurvey/LimeSurvey) | 2022-05-30 |  Mickael "PAPAMICA" Asseline |
 | ✅ | <img src="https://img.papamica.com/logo/mariadb.png" alt="mariadb" width="20"/> [mariadb](https://github.com/PAPAMICA/docker-compose-collection/tree/master/composes-files/mariadb.yml) | [mariadb.org](https://mariadb.org/) | 2022-05-17 |  Mickael "PAPAMICA" Asseline |
